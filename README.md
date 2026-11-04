@@ -4,6 +4,20 @@ A collection of my university and personal projects in **Geographic Information 
 
 The projects showcase practical workflows, from processing geographic data to interpreting landscapes and presenting the results as maps.
 
+## Geological Field Mapping — Szczawa (Magorzyca Sheet)
+
+**ArcGIS Field Maps · ArcGIS Online · ArcGIS Pro · Field Geology · Geological Cartography**
+
+A collaborative field-mapping project in the **Gorce Mountains, southern Poland**. During geological exercises (15–22 July 2026), the team documented rock outcrops, measured bedding orientation, collected georeferenced observations and interpreted lithostratigraphic units and structural features to produce a detailed geological map.
+
+[![Geological map of Szczawa — Magorzyca sheet](geological-mapping-szczawa/assets/szczawa-geological-map.png)](geological-mapping-szczawa/maps/szczawa-geological-map.pdf)
+
+*Click the map preview to open the original PDF.*
+
+**[Read the detailed project documentation](geological-mapping-szczawa/README.md)** · **[View the geological map (PDF)](geological-mapping-szczawa/maps/szczawa-geological-map.pdf)**
+
+---
+
 ## Featured project
 
 ### Geomorphological Relief Mapping — Żywiec–Kysuce Beskids
